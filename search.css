@@ -1,0 +1,30 @@
+
+#top{
+  display: flex;
+  
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#flex-container {
+  display: flex;
+  
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#flex-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+   box-shadow: 5px 10px #a5a58d;
+   border-radius: 10px;
+
+}
+img{
+  width: 180px;
+  height: 100px;
+}
+button: hover{
+  background-color: red;
+}
